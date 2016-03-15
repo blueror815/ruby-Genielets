@@ -14,8 +14,6 @@
 >7. RESTful API for mobile app back end point.
 >8. Social Media integration-Facebook, Linkedin, Twitter, Pinterest, Google.
 6. hosting: AWS EC2 using Nginx
+7. 
 
 # Portfolio
-
-![](gen.png)
-![Alt text](gen1.png)
